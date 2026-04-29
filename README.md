@@ -1,3 +1,3 @@
 # system_school
 
-A new Flutter project.
+Aplicación escrita en Flutter de un sistema escolar
